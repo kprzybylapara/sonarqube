@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: examples.stubs.InterpreterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.609 sec <<< FAILURE! - in examples.stubs.InterpreterTest
+testAdd34(examples.stubs.InterpreterTest)  Time elapsed: 0.328 sec  <<< FAILURE!
+java.lang.AssertionError: value is:-1
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at examples.stubs.InterpreterTest.testAdd34(InterpreterTest.java:43)
+
